@@ -2,7 +2,7 @@
 ## About
 - Hydrologist/Data scientist
 - TU Delft Water Management
-- Works at Hoogheemraadschap van Delfland
+- Works at Hoogheemraadschap van Delfland alumnus
 - [intodeep.ai](https://intodeep.ai/)
 
 ## @
