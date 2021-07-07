@@ -1,9 +1,9 @@
 # Sjoerd Gnodde
 ## About
 - Hydrologist/Data scientist
-- TU Delft Water Management
-- Works at Hoogheemraadschap van Delfland alumnus
-- [intodeep.ai](https://intodeep.ai/)
+- Works at Hoogheemraadschap van Delfland
+- Follows [intodeep.ai](https://intodeep.ai/) programme
+- TU Delft Water Management alumnus
 
 ## @
 [LinkedIn](https://www.linkedin.com/in/sjoerdgnodde)
