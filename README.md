@@ -15,8 +15,13 @@
 
 [<img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />](https://scikit-learn.org/)
 
+
+[<img align="left" alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft-Azure-0078D4.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white?labelColor=5E5E5E" />](https://azure.microsoft.com/)
+
 [<img align="left" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />](https://powerbi.microsoft.com/)
 
+<br>
+<br>
 
 [<img align="left" alt="html" src="https://img.shields.io/badge/HTML-23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />](https://en.wikipedia.org/wiki/HTML)
 [<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />](https://en.wikipedia.org/wiki/JavaScript)
