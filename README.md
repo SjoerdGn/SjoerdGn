@@ -9,15 +9,15 @@
 <br>
 
 ## Expertise
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+[<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 
-<img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+[<img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />](https://pytorch.org/)
 
-<img align="left" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />
+[<img align="left" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />](https://powerbi.microsoft.com/)
 
 
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML-23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
-<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+[<img align="left" alt="html" src="https://img.shields.io/badge/HTML-23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />](https://en.wikipedia.org/wiki/HTML)
+[<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />](https://en.wikipedia.org/wiki/JavaScript)
 
 <br>
 <br>
