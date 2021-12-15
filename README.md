@@ -13,6 +13,8 @@
 
 [<img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />](https://pytorch.org/)
 
+[<img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />](https://scikit-learn.org/)
+
 [<img align="left" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />](https://powerbi.microsoft.com/)
 
 
