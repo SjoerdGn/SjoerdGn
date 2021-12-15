@@ -1,5 +1,5 @@
 # Sjoerd Gnodde
-## About
+## 📖 About
 - Hydrologist/Data scientist
 - Works at [Hoogheemraadschap van Delfland](https://www.hhdelfland.nl/)
 - Followed [DEEP (intodeep.ai)](https://intodeep.ai/) programme
@@ -8,7 +8,7 @@
 
 <br>
 
-## Expertise
+## 💡 Expertise 
 [<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 
 [<img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />](https://pytorch.org/)
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-## @
+## 📠 Digital Business Card
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sjoerdgnodde)
 [<img align="left" alt="gnodde.nl" src="https://img.shields.io/badge/gnodde.nl-%2312100E.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />](http://gnodde.nl/index.html)
 
