@@ -3,7 +3,7 @@
 - Hydrologist/Data scientist
 - Works at [Hoogheemraadschap van Delfland](https://www.hhdelfland.nl/)
 - Followed [DEEP (intodeep.ai)](https://intodeep.ai/) programme
-- TU Delft Water Management alumnus
+- [TU Delft Water Management](https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering-test/old/old/old/oud/old/old/old/msc-programme/track-water-management) alumnus
 
 
 <br>
