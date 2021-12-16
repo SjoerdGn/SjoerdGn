@@ -23,10 +23,8 @@
 
 <br>
 <br>
-<br>
 
 [<img align="left" alt="html" src="https://img.shields.io/badge/HTML-23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />](https://en.wikipedia.org/wiki/HTML)
-
 [<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />](https://en.wikipedia.org/wiki/JavaScript)
 
 
