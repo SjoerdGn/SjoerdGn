@@ -20,17 +20,23 @@
 
 [<img align="left" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />](https://powerbi.microsoft.com/)
 
+
 <br>
 <br>
 
 [<img align="left" alt="html" src="https://img.shields.io/badge/HTML-23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />](https://en.wikipedia.org/wiki/HTML)
+
 [<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />](https://en.wikipedia.org/wiki/JavaScript)
 
+
 <br>
 <br>
 
+
 ## 📠 Digital Business Card
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sjoerdgnodde)
+
 [<img align="left" alt="gnodde.nl" src="https://img.shields.io/badge/gnodde.nl-%2312100E.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />](http://gnodde.nl/index.html)
 
 
